@@ -14,5 +14,8 @@
     "react-dom": "18.2.0",
     "react-icons": "^4.8.0",
     "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^4.36.0"
   }
 }
