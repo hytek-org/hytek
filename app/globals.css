@@ -3,29 +3,15 @@
 @tailwind components;
 @tailwind utilities;
 
+body{
+  background-color: #000;
 
-:root {
-  --primary-color: #0070f3;
 }
 
-html,
-body {
-  margin: 0;
-  padding: 0;
-  font-size: 16px;
-  background-color: #333;
-  color: #fff;
-}
-
-.container {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
 
 .btn {
   display: inline-block;
-  background-color: var(--primary-color);
+  background-color: #000;
   color: #fff;
   padding: 0.5rem 1rem;
   border: none;
@@ -33,6 +19,7 @@ body {
   font-size: 1rem;
   cursor: pointer;
   text-decoration: none;
+  border: 2px solid red;
 }
 
 .btn:hover {
@@ -54,6 +41,20 @@ body {
 }
 
 .header {
+  position: fixed;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0047ab;
+  color: #fff;
+  padding: 1rem;
+
+  
+}
+
+.footer {
+  
   display: flex;
   justify-content: center;
   align-items: center;
@@ -62,7 +63,6 @@ body {
   padding: 1rem;
   border-bottom: 5px solid #fff;
 }
-
 .logo {
   text-align: center;
   margin-bottom: 0.5rem;
@@ -86,6 +86,7 @@ body {
 }
 
 .search-form {
+  margin-top: 102px;
   display: flex;
   align-items: center;
 }
@@ -107,10 +108,12 @@ body {
   border-radius: 4px;
   font-size: 1rem;
   cursor: pointer;
+  border-radius: 7px;
+  border: 2px solid #fff;
 }
 
 .search-button:hover {
-  background-color: #0058b7;
+  background-color: #222;
 }
 
 .search-input:focus,

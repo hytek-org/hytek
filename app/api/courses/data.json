@@ -8,30 +8,697 @@
   },
   {
     "id": 2,
-    "title": "Node.js API Masterclass",
-    "description": "Build an extensive RESTful API using Node.js, Express, and MongoDB",
+    "title": "JavaScript for Beginners",
+    "description": "Learn the basics of JavaScript programming language including variables, data types, functions, and more.",
     "link": "#",
-    "level": "Intermediate"
+    "level": "Beginner"
   },
   {
     "id": 3,
-    "title": "Modern JavaScript From The Beginning",
-    "description": "37 hour course that teaches you all of the fundamentals of modern JavaScript.",
+    "title": "Python Crash Course",
+    "description": "Learn the fundamentals of Python programming language including syntax, data types, loops, and more.",
     "link": "#",
-    "level": "All Levels"
+    "level": "Beginner"
   },
   {
     "id": 4,
-    "title": "Next.js Dev To Deployment",
-    "description": "Learn Next.js by building a music event website and a web dev blog as a static website",
+    "title": "Full Stack Web Development",
+    "description": "Learn how to build web applications from scratch using modern tools and technologies such as Node.js, Express, MongoDB, React, and more.",
     "link": "#",
     "level": "Intermediate"
   },
   {
     "id": 5,
-    "title": "50 Projects in 50 Days",
-    "description": "Sharpen your skills by building 50 quick, unique & fun mini projects.",
+    "title": "Data Structures and Algorithms",
+    "description": "Learn how to implement and use various data structures and algorithms such as arrays, linked lists, binary search trees, and more.",
+    "link": "#",
+    "level": "Advanced"
+  },
+  {
+    "id": 6,
+    "title": "Artificial Intelligence and Machine Learning",
+    "description": "Learn how to build intelligent systems that can learn from data and make predictions using machine learning algorithms and techniques.",
+    "link": "#",
+    "level": "Advanced"
+  },
+  {
+    "id": 7,
+    "title": "iOS App Development with Swift",
+    "description": "Learn how to build native iOS applications using the Swift programming language and various tools and frameworks.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 8,
+    "title": "Android App Development with Kotlin",
+    "description": "Learn how to build native Android applications using the Kotlin programming language and various tools and frameworks.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 9,
+    "title": "Blockchain and Cryptocurrency",
+    "description": "Learn how to build decentralized applications and understand the technology behind cryptocurrencies such as Bitcoin and Ethereum.",
+    "link": "#",
+    "level": "Advanced"
+  },
+  {
+    "id": 10,
+    "title": "Cybersecurity Fundamentals",
+    "description": "Learn how to secure computer systems and networks from various types of attacks such as malware, phishing, and social engineering.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 11,
+    "title": "UI/UX Design",
+    "description": "Learn how to design user interfaces and user experiences that are intuitive, attractive, and functional.",
     "link": "#",
     "level": "Beginner"
+  },
+  {
+    "id": 12,
+    "title": "Product Management",
+    "description": "Learn how to manage product development from ideation to launch and beyond, including customer research, product strategy, and project management.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 13,
+    "title": "Advanced React and Redux",
+    "description": "Learn advanced concepts in React and Redux including HOCs, render props, middleware, and more.",
+    "link": "#",
+    "level": "Advanced"
+  },
+  {
+    "id": 14,
+    "title": "Vue.js Fundamentals",
+    "description": "Learn the basics of Vue.js including components, directives, templates, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 15,
+    "title": "Django Web Development",
+    "description": "Learn how to build web applications using Django, a popular Python web framework.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 16,
+    "title": "GraphQL Fundamentals",
+    "description": "Learn how to build APIs using GraphQL, a query language for APIs that provides a more efficient, powerful and flexible alternative to REST.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 17,
+    "title": "React Native for Mobile App Development",
+    "description": "Learn how to build native mobile applications for iOS and Android using React Native.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 18,
+    "title": "Angular Fundamentals",
+    "description": "Learn the basics of Angular including components, modules, services, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 19,
+    "title": "Java Programming for Beginners",
+    "description": "Learn the fundamentals of Java programming language including syntax, data types, control structures, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 20,
+    "title": "Spring Framework Fundamentals",
+    "description": "Learn how to build web applications using Spring Framework, a popular Java framework for building enterprise-grade applications.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 21,
+    "title": "Cloud Computing Fundamentals",
+    "description": "Learn the basics of cloud computing including virtualization, infrastructure as a service, platform as a service, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 22,
+    "title": "Big Data Fundamentals",
+    "description": "Learn the basics of big data including Hadoop, Spark, NoSQL databases, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 23,
+    "title": "DevOps Fundamentals",
+    "description": "Learn the basics of DevOps including continuous integration, continuous delivery, containerization, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 24,
+    "title": "Natural Language Processing Fundamentals",
+    "description": "Learn the basics of natural language processing including tokenization, part-of-speech tagging, sentiment analysis, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 25,
+    "title": "Node.js Fundamentals",
+    "description": "Learn the basics of Node.js including event-driven programming, non-blocking I/O, modules, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 26,
+    "title": "ASP.NET Core Fundamentals",
+    "description": "Learn how to build web applications using ASP.NET Core, a cross-platform, open-source framework for building modern, cloud-based, internet-connected applications.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 27,
+    "title": "Full Stack Web Development with Django and React",
+    "description": "Learn how to build full-stack web applications using Django and React, including authentication, REST APIs, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 28,
+    "title": "Data Structures and Algorithms in Python",
+    "description": "Learn the most important data structures and algorithms using Python, including arrays, linked lists, stacks, queues, trees, graphs, sorting algorithms, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 29,
+    "title": "Machine Learning Fundamentals",
+    "description": "Learn the basics of machine learning including supervised and unsupervised learning, feature selection, model evaluation, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 30,
+    "title": "Ruby on Rails Fundamentals",
+    "description": "Learn how to build web applications using Ruby on Rails, a popular web framework for building web applications quickly and easily.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 31,
+    "title": "AWS Fundamentals",
+    "description": "Learn the basics of Amazon Web Services (AWS) including EC2, S3, RDS, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 32,
+    "title": "Android App Development Fundamentals",
+    "description": "Learn the basics of Android app development including activities, layouts, intents, services, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 33,
+    "title": "Data Science Fundamentals",
+    "description": "Learn the basics of data science including data cleaning, exploratory data analysis, visualization, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 34,
+    "title": "Swift Fundamentals",
+    "description": "Learn the basics of Swift programming language including variables, data types, control flow, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 35,
+    "title": "ASP.NET MVC Fundamentals",
+    "description": "Learn how to build web applications using ASP.NET MVC, a framework for building scalable, standards-based web applications using well-established design patterns.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 36,
+    "title": "Golang Fundamentals",
+    "description": "Learn the basics of Go programming language including syntax, data types, control flow, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+
+  {
+    "id": 37,
+    "title": "React Native Fundamentals",
+    "description": "Learn the basics of React Native, a framework for building native mobile applications using JavaScript and React.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 38,
+    "title": "Unity Game Development Fundamentals",
+    "description": "Learn how to build games using Unity, a popular game engine for creating cross-platform games.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 39,
+    "title": "Vue.js Fundamentals",
+    "description": "Learn the basics of Vue.js, a popular progressive JavaScript framework for building user interfaces.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 40,
+    "title": "Blockchain Fundamentals",
+    "description": "Learn the basics of blockchain technology, including how it works, its components, and its potential applications.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 41,
+    "title": "Data Visualization with D3.js",
+    "description": "Learn how to create dynamic, interactive data visualizations using D3.js, a JavaScript library for data visualization.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 42,
+    "title": "Java Fundamentals",
+    "description": "Learn the basics of Java programming language including variables, data types, control flow, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 43,
+    "title": "GraphQL Fundamentals",
+    "description": "Learn the basics of GraphQL, a query language for APIs that provides a more efficient, powerful, and flexible alternative to REST.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 44,
+    "title": "Python for Data Science",
+    "description": "Learn how to use Python for data science, including data manipulation, visualization, machine learning, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 45,
+    "title": "React Fundamentals",
+    "description": "Learn the fundamentals of React, a JavaScript library for building user interfaces.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 46,
+    "title": "Angular Fundamentals",
+    "description": "Learn the basics of Angular, a popular framework for building web applications.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 47,
+    "title": "iOS App Development with Swift",
+    "description": "Learn how to build iOS apps using Swift, including user interface design, data storage, networking, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 48,
+    "title": "Data Analysis with Pandas",
+    "description": "Learn how to use Pandas, a Python library for data analysis, to clean, manipulate, and analyze data.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 49,
+    "title": "JavaScript Algorithms and Data Structures",
+    "description": "Learn the fundamental algorithms and data structures in JavaScript, including recursion, sorting, searching, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 50,
+    "title": "C# Fundamentals",
+    "description": "Learn the basics of C#, a popular object-oriented programming language used for developing Windows applications and video games.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 51,
+    "title": "Full-Stack Web Development with React and Node.js",
+    "description": "Learn how to build full-stack web applications using React and Node.js, including user authentication, database integration, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 52,
+    "title": "Machine Learning Fundamentals",
+    "description": "Learn the basics of machine learning, including supervised and unsupervised learning, regression, classification, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 53,
+    "title": "Android App Development with Kotlin",
+    "description": "Learn how to build Android apps using Kotlin, a modern programming language that is officially supported by Google for Android development.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 54,
+    "title": "Data Science with R",
+    "description": "Learn how to use R, a popular programming language for statistical computing and graphics, for data analysis, visualization, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 55,
+    "title": "MongoDB Fundamentals",
+    "description": "Learn the basics of MongoDB, a popular NoSQL document database that is widely used for building scalable, flexible, and fast web applications.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 56,
+    "title": "ASP.NET Core Fundamentals",
+    "description": "Learn the basics of ASP.NET Core, a modern and cross-platform framework for building web applications using C# and .NET.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 57,
+    "title": "Java Spring Boot Fundamentals",
+    "description": "Learn the basics of Spring Boot, a popular framework for building enterprise-grade Java applications.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 58,
+    "title": "WordPress Theme Development",
+    "description": "Learn how to build custom WordPress themes from scratch using HTML, CSS, PHP, and JavaScript.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 59,
+    "title": "CSS Fundamentals",
+    "description": "Learn the fundamentals of CSS, including selectors, styling, layout, and responsive design.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 60,
+    "title": "Ruby on Rails Fundamentals",
+    "description": "Learn the basics of Ruby on Rails, a popular web application framework that follows the Model-View-Controller (MVC) architectural pattern.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 61,
+    "title": "Data Structures and Algorithms in Python",
+    "description": "Learn the fundamentals of data structures and algorithms in Python, including lists, stacks, queues, trees, graphs, sorting, and searching.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 62,
+    "title": "Flutter App Development",
+    "description": "Learn how to build cross-platform mobile apps using Flutter, a popular framework for building beautiful and fast native apps for iOS and Android.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 63,
+    "title": "AWS Certified Solutions Architect - Associate",
+    "description": "Prepare for the AWS Certified Solutions Architect - Associate exam and learn how to design and deploy scalable, highly available, and fault-tolerant systems on AWS.",
+    "link": "#",
+    "level": "Advanced"
+  },
+  {
+    "id": 64,
+    "title": "Django Fundamentals",
+    "description": "Learn the basics of Django, a popular web framework for building secure, scalable, and maintainable web applications using Python.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 65,
+    "title": "React Native App Development",
+    "description": "Learn how to build native mobile apps for iOS and Android using React Native, a popular framework for building high-quality mobile apps using JavaScript.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 66,
+    "title": "Docker Fundamentals",
+    "description": "Learn the basics of Docker, a popular platform for containerizing and deploying applications, and learn how to build and deploy Docker containers.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 67,
+    "title": "GraphQL Fundamentals",
+    "description": "Learn the basics of GraphQL, a modern and powerful API query language, and learn how to build and deploy GraphQL APIs using Node.js and other popular tools.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 68,
+    "title": "Vue.js Fundamentals",
+    "description": "Learn the basics of Vue.js, a popular JavaScript framework for building dynamic and interactive web applications.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 69,
+    "title": "Swift App Development",
+    "description": "Learn how to build native iOS apps using Swift, a modern programming language that is designed to be fast, safe, and expressive.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 70,
+    "title": "Python Web Scraping",
+    "description": "Learn how to extract data from websites using Python, including techniques for scraping HTML, parsing XML, and using web APIs.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 71,
+    "title": "Angular Fundamentals",
+    "description": "Learn the basics of Angular, a popular web framework for building dynamic and interactive web applications using TypeScript.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 72,
+    "title": "Scala Fundamentals",
+    "description": "Learn the basics of Scala, a modern programming language that is designed to be concise, expressive",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 73,
+    "title": "Unity Game Development",
+    "description": "Learn how to build 2D and 3D games using Unity, a popular game engine that is used to create games for desktop, mobile, and console platforms.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 74,
+    "title": "Java Fundamentals",
+    "description": "Learn the basics of Java, a popular programming language that is used to build enterprise applications, Android apps, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 75,
+    "title": "Ruby on Rails Fundamentals",
+    "description": "Learn the basics of Ruby on Rails, a popular web framework for building scalable and maintainable web applications using Ruby.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 76,
+    "title": "Cybersecurity Fundamentals",
+    "description": "Learn the basics of cybersecurity, including threat analysis, network security, cryptography, and secure coding practices.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 77,
+    "title": "Machine Learning with Python",
+    "description": "Learn how to build machine learning models using Python, including supervised and unsupervised learning, deep learning, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 78,
+    "title": "Ionic App Development",
+    "description": "Learn how to build hybrid mobile apps using Ionic, a popular framework for building high-quality mobile apps using web technologies like HTML, CSS, and JavaScript.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 79,
+    "title": "WordPress Fundamentals",
+    "description": "Learn the basics of WordPress, a popular content management system (CMS) for building websites and blogs.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 80,
+    "title": "MongoDB Fundamentals",
+    "description": "Learn the basics of MongoDB, a popular NoSQL database that is used to store and retrieve large volumes of data quickly and efficiently.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 81,
+    "title": "Game Design Fundamentals",
+    "description": "Learn the basics of game design, including game mechanics, game balancing, level design, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 82,
+    "title": "C# Fundamentals",
+    "description": "Learn the basics of C#, a modern programming language that is used to build Windows desktop applications, games, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 83,
+    "title": "Data Science with R",
+    "description": "Learn how to perform data analysis and visualization using R, a popular programming language for statistical computing and graphics.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 84,
+    "title": "Kotlin Fundamentals",
+    "description": "Learn the basics of Kotlin, a modern programming language that is designed to be more concise and expressive than Java.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+
+  {
+    "id": 85,
+    "title": "React Native App Development",
+    "description": "Learn how to build mobile apps for iOS and Android using React Native, a popular framework for building high-quality mobile apps using JavaScript and React.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 86,
+    "title": "Android App Development with Kotlin",
+    "description": "Learn how to build Android apps using Kotlin, a modern programming language that is designed to be more concise and expressive than Java.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 87,
+    "title": "Data Structures and Algorithms",
+    "description": "Learn about data structures and algorithms, including arrays, linked lists, trees, sorting algorithms, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 88,
+    "title": "Game Programming with Unity",
+    "description": "Learn how to program games using Unity, a popular game engine that is used to create games for desktop, mobile, and console platforms.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 89,
+    "title": "ASP.NET Core Fundamentals",
+    "description": "Learn the basics of ASP.NET Core, a modern web framework for building high-quality web applications using C# and .NET.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 90,
+    "title": "Swift App Development",
+    "description": "Learn how to build iOS apps using Swift, a modern programming language that is designed to be safe, fast, and interactive.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 91,
+    "title": "GraphQL Fundamentals",
+    "description": "Learn the basics of GraphQL, a query language for APIs that provides a more efficient, powerful, and flexible alternative to REST.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 92,
+    "title": "React Native with Firebase",
+    "description": "Learn how to build mobile apps with React Native and Firebase, a popular backend-as-a-service platform that provides a range of features and services for mobile app development.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 93,
+    "title": "Web Design Fundamentals",
+    "description": "Learn the basics of web design, including HTML, CSS, layout, typography, color theory, and more.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 94,
+    "title": "ASP.NET Core Web API Development",
+    "description": "Learn how to build RESTful APIs using ASP.NET Core, a modern web framework for building high-quality web applications using C# and .NET.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 95,
+    "title": "Adobe Photoshop Fundamentals",
+    "description": "Learn the basics of Adobe Photoshop, a popular image editing software used for graphic design, digital art, and photo editing.",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 96,
+    "title": "Vue.js Frontend Framework",
+    "description": "Learn how to build interactive and scalable user",
+    "link": "#",
+    "level": "Beginner"
+  },
+  {
+    "id": 97,
+    "title": "Python for Data Science",
+    "description": "Learn how to use Python for data analysis, data visualization, machine learning, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 98,
+    "title": "AngularJS Frontend Framework",
+    "description": "Learn how to build dynamic and responsive web applications using AngularJS, a powerful and popular frontend framework.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 99,
+    "title": "C++ Programming Fundamentals",
+    "description": "Learn the basics of C++, a powerful and popular programming language used for system programming, game development, and more.",
+    "link": "#",
+    "level": "Intermediate"
+  },
+  {
+    "id": 100,
+    "title": "iOS App Development with Swift",
+    "description": "Learn how to build iOS apps using Swift, a modern programming language that is designed to be safe, fast, and interactive.",
+    "link": "#",
+    "level": "Intermediate"
   }
 ]
